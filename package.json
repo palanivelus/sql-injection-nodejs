@@ -1,0 +1,21 @@
+{
+  "name": "sql-injection-demo",
+  "version": "1.0.0",
+  "description": "nodejs sql injection demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "palanivelu Samudi",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "sql",
+    "injection",
+    "nodejs",
+    "mysql"
+  ]
+}
